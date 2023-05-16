@@ -1,6 +1,8 @@
 # Library App. for The Odin Project
 
-##### Simple library app created for learning purposes. What did i learn:
+##### Simple library app created for learning purposes.
+
+What did i learn:
 
 1. Objects
 2. Constructors
